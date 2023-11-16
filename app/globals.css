@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #eee;
+}
+
+/* globals.css */
+.gradient-sports {
+    background: linear-gradient(180deg, #546d7d 0%, #3b5160 100%);
+  }
+  
